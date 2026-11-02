@@ -1,0 +1,9 @@
+{
+  "id": "dispatch-board",
+  "name": "调度台",
+  "version": "0.5.0",
+  "minAppVersion": "1.14.0",
+  "description": "自动识别项目文件夹，用紧凑列表调度状态、重要程度和下一步。",
+  "author": "49",
+  "isDesktopOnly": true
+}
